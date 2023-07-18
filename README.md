@@ -3,6 +3,10 @@
 Data files for the manuscript _Momentum-independent magnetic excitation continuum in the honeycomb iridate
 H<sub>3</sub>LiIr<sub>2</sub>O<sub>6</sub>_, A. de la Torre, B. Zager, F. Bahrami, M. H. Upton, J. Kim, G. Fabbris, G.-H. Lee, W.Yang, D. Haskel, F. Tafti, and K. W. Plumb. 
 
+
+[![DOI](https://zenodo.org/badge/667554370.svg)](https://zenodo.org/badge/latestdoi/667554370)
+
+
 # How to cite
 
 If this data is used, please cite, _Momentum-independent magnetic excitation continuum in the honeycomb iridate
