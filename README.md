@@ -1,7 +1,7 @@
 # Data Repository
 
-Data files for the manuscript (_Momentum-independent magnetic excitation continuum in the honeycomb iridate
-H<sub>3</sub>LiIr<sub>2</sub>O<sub>6</sub>_, A. de la Torre, B. Zager, F. Bahrami, M. H. Upton, J. Kim, G. Fabbris, G.-H. Lee, W.Yang, D. Haskel, F. Tafti, and K. W. Plumb. Nature Communications 14, Article 5018 (2023))(https://www.nature.com/articles/s41467-023-40769-x)
+Data files for the manuscript [_Momentum-independent magnetic excitation continuum in the honeycomb iridate
+H<sub>3</sub>LiIr<sub>2</sub>O<sub>6</sub>_, A. de la Torre, B. Zager, F. Bahrami, M. H. Upton, J. Kim, G. Fabbris, G.-H. Lee, W.Yang, D. Haskel, F. Tafti, and K. W. Plumb. Nature Communications 14, Article 5018 (2023)](https://www.nature.com/articles/s41467-023-40769-x)
 
 
 [![DOI](https://zenodo.org/badge/667554370.svg)](https://zenodo.org/badge/latestdoi/667554370)
